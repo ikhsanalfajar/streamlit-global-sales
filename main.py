@@ -8,7 +8,7 @@ st.title('Estimasi Data Global Sales Vidio Game')
 NA_Sales = st.number_input('Input Penjualan Amerika Utara')
 EU_Sales = st.number_input('Input Penjualan Eropa')
 JP_Sales = st.number_input('Input Penjualan Jepang')
-Other_Sales = st.number_input('Input Penjualan Lainnya')
+Other_Sales = st.number_input('Input Penjualan Wilayah lain')
 
 predict = ''
 
